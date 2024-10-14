@@ -104,7 +104,7 @@ aside img {
   margin: 15px;
 }
 
-a:active {
+.active {
 color: #800000;
 }
 .nav_list a {
