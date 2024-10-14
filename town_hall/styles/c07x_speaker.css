@@ -96,7 +96,7 @@ aside img {
 }
 .nav_list li {
   border: 2px solid ;
-  padding: 1px;
+  padding: 5px;
   border-radius: 5px;
   background: white;
   box-shadow: 4px 5px #800000;
@@ -108,7 +108,7 @@ a:active {
 color: #800000;
 }
 .nav_list a {
-	background-images: url('images/right.jpg');
+	background-images: url ("images/right.jpg");
 	background-repeat: no-repeat;
 	background-position: 95% center;
 }
